@@ -1,2 +1,11 @@
-# dio-gestao-transacoes-bancarias
-Este repositório contém dois desafios do curso "Trabalhando com Coleções em Python", no Bootcamp Suzano – Python Developer da Digital Innovation One. O foco é implementar soluções para registro e filtragem de transações bancárias, aplicando listas e manipulação de dados.
+# Desafios de Gestão e Controle de Transações Bancárias  
+Aplicando conceitos de listas e manipulação de dados em Python  
+
+Este repositório contém dois projetos que demonstram o uso de listas e manipulação de dados em Python para resolver problemas relacionados a transações bancárias.
+
+## Projetos  
+
+| Nome do Projeto                      | Descrição                                                                                                       | Link | Tecnologias Usadas | Data de Conclusão | Status do Projeto |
+| :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :--: | :----------------: | :---------------: | :---------------: |
+| Registro de Transações Bancárias      | Este projeto implementa um sistema para calcular o saldo final de uma conta bancária a partir de uma lista de transações. | [Link](https://github.com/lucenfort/dio-transacoes-python) | Python | 08/02/2025 | Concluído |
+| Transações Acima de um Limite         | Neste projeto, foi criado um programa para filtrar e exibir transações acima de um valor limite especificado pelo usuário. | [Link](https://github.com/lucenfort/dio-transacoes-python) | Python | 08/02/2025 | Concluído |
